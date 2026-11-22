@@ -1,0 +1,17 @@
+{
+  "name": "Growth Hub Education Platform",
+  "short_name": "Growth Hub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#064b3d",
+  "description": "Exam practice and learning progress for Growth Hub students.",
+  "icons": [
+    {
+      "src": "assets/growth-hub-logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
